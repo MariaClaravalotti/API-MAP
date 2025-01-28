@@ -29,7 +29,7 @@ Este projeto usa a JSONPlaceholder como API de exemplo. Você pode trocar pela A
 ##🎨 Layout
 O layout é simples, com foco na usabilidade e legibilidade. O estilo básico pode ser aprimorado com frameworks como Bootstrap ou Tailwind.
 
-(![api+map](https://github.com/user-attachments/assets/f181384a-fc75-4b29-8466-bdd72e0f81a9)
+![image](https://github.com/user-attachments/assets/1f6a6c86-dcf7-4d0a-b47f-3a42a2e084e8)
 
 
 
